@@ -1,7 +1,7 @@
 # Welcome to the Operator's
 
 
-# 1) Artithmatical Operator's --> + - * / %
+# 1) Arithmetical Operator's --> + - * / %
 ''' 
 a = 3
 b = 4
@@ -15,7 +15,7 @@ print("The value of a % b is", a % b)
 '''
 
 '''
-# 2) Assigement Operator's -->  = += *= /=
+# 2) Assignment Operator's -->  = += *= /=
 
 a = 3
 a += 2 # a = a + 2 ---> a = 3 + 2 = 5
