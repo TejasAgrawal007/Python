@@ -23,6 +23,6 @@ class Employee:
     def time():
         print("The time is 9AM in the morning")
 
-harry = Employee("Harry", 100, "YouTube")
+Tejas = Employee("Harry", 100, "YouTube")
 # harry = Employee() --> This throws an error (missing 3 required positional arguments:)
-harry.getDetails()
+Tejas.getDetails()
