@@ -1,4 +1,4 @@
-names = ["Akash", "Prateek", "Rohit", "Himanshu", "Indra", "JAY", "Aditya"]
+names = ["Akash", "Prateek", "Siya", "Himanshu", "Indra", "JAY", "Aditya"]
 name = input("Enter Your name to Check:\t")
 
 if name in names:
