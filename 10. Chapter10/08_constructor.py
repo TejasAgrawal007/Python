@@ -17,7 +17,7 @@ class Employee:
 
     @staticmethod
     def greet():
-        print("Good Morning, Sir")
+        print("Good Morning, Sir!")
 
     @staticmethod
     def time():
