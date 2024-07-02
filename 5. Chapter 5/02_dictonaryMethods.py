@@ -24,7 +24,7 @@ print(myDist)
 # 4. Updating the dictionary
 # tejas = {
 #     "Teach": "Mindspace Teach Name is Tejas",
-#     "Siya": "Siya is the Best Person"
+#     "XYZ": "ABC is the Best Person"
 # }
 
 # myDist.update(tejas)
